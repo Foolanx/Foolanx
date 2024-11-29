@@ -1,4 +1,4 @@
-# Mon Application de Musique
+#BeatFlow
 
 Une application de musique gratuite et moderne inspirée de Spotify. Permet aux utilisateurs de découvrir et de profiter de leurs morceaux préférés.
 
